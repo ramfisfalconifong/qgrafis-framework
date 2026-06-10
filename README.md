@@ -1,3 +1,4 @@
+![QGRAFIS Portada](WhatsApp%20Image%202026-06-10%20at%202.34.10%20AM.jpeg)
 # QGRAFIS: Intelligence Mediation Protocol
 
 ## 🌌 Visión General
